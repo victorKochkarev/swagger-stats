@@ -1,5 +1,5 @@
 {
-  "name": "swagger-stats",
+  "name": "@victorkochkarev/swagger-stats",
   "version": "0.99.2",
   "description": "API Telemetry and APM. Trace API calls and Monitor API performance, health and usage statistics in Node.js Microservices, based on express routes and Swagger (Open API) specification",
   "main": "lib/index.js",
@@ -85,13 +85,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/slanatech/swagger-stats"
+    "url": "https://github.com/victorKochkarev/swagger-stats"
   },
   "author": "https://github.com/sv2",
   "homepage": "http://swaggerstats.io",
   "bugs": {
-    "url": "https://github.com/slanatech/swagger-stats/issues",
-    "email": "sv2@slana.tech"
+    "url": "https://github.com/victorKochkarev/swagger-stats/issues",
+    "email": "victor.kochkarev@gmail.com"
   },
   "license": "MIT",
   "dependencies": {
