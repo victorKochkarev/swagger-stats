@@ -1,3 +1,11 @@
+This project is a fork of [Swagger-Stats](https://github.com/slanatech/swagger-stats)
+
+## About the fork
+The Original project [Swagger-Stats](https://github.com/slanatech/swagger-stats) has not been maintained since Jul 2,2021.
+It resulted in multiple outdated NPM references. The purpose of this brunch is to keep the project up to date. I hope 
+original project will be maintained soon.
+
+
 <p align="center">
 <img src="https://github.com/slanatech/swagger-stats/blob/master/screenshots/logo.png?raw=true" alt="swagger-stats"/>
 </p>
